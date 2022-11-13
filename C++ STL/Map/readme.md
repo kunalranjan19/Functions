@@ -1,5 +1,5 @@
-Member functions
-(constructor)	Construct map (public member function)
+#Member functions
+**(constructor)	**Construct map (public member function)
 (destructor)	Map destructor (public member function)
 operator=	Copy container content (public member function)
 
